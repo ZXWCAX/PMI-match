@@ -1,6 +1,6 @@
 # PMI-Match: Cross-Modal Binding of Product Manufacturing Information from 2D Engineering Drawings to 3D CAD Models
 
-This repository contains the official implementation of the paper **"PMI-Match: Cross-Modal Binding of Product Manufacturing Information from 2D Engineering Drawings to 3D CAD Models"**.
+This repository contains the official implementation of the paper **"Intelligent Recognition and Topological Mapping of PMI from 2D Drawings to 3D CAD Models"**.
 
 ## Dataset
 
