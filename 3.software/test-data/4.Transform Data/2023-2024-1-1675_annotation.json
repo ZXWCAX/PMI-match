@@ -1,0 +1,56 @@
+{
+    "dataset_version": "1.0",
+    "images": [
+        {
+            "annotations": [
+                {
+                    "present": false,
+                    "view_id": "back"
+                },
+                {
+                    "present": false,
+                    "view_id": "bottom"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.4302302708777331,
+                        "norm_y": 0.29050814924586077,
+                        "pos_x": 2535.777216553359,
+                        "pos_y": 1210.547457907502,
+                        "rotation": 0,
+                        "scale_x": 19.84000623920535,
+                        "scale_y": 19.844072520038388
+                    },
+                    "view_id": "front"
+                },
+                {
+                    "present": false,
+                    "view_id": "left"
+                },
+                {
+                    "present": false,
+                    "view_id": "right"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.430229998450793,
+                        "norm_y": 0.6544627575346016,
+                        "pos_x": 2535.775610868974,
+                        "pos_y": 2727.146310646685,
+                        "rotation": 0,
+                        "scale_x": 19.84203063794061,
+                        "scale_y": 19.833851219233733
+                    },
+                    "view_id": "top"
+                }
+            ],
+            "file_name": "2023-2024-1-1675.png",
+            "image_size": {
+                "height": 4167,
+                "width": 5894
+            }
+        }
+    ]
+}

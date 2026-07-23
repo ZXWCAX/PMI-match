@@ -1,0 +1,74 @@
+{
+    "dataset_version": "1.0",
+    "images": [
+        {
+            "annotations": [
+                {
+                    "present": false,
+                    "view_id": "back"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.7822087834007666,
+                        "norm_y": 0.44278315406904806,
+                        "pos_x": 6521.274627212191,
+                        "pos_y": 2609.7639100829692,
+                        "rotation": 0,
+                        "scale_x": 39.654210311747306,
+                        "scale_y": 39.66050515891553
+                    },
+                    "view_id": "bottom"
+                },
+                {
+                    "present": false,
+                    "view_id": "front"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.37296390203643276,
+                        "norm_y": 0.4427696077755784,
+                        "pos_x": 3109.4000512777397,
+                        "pos_y": 2609.684068229259,
+                        "rotation": 270,
+                        "scale_x": 39.67736671044742,
+                        "scale_y": 39.697149028705354
+                    },
+                    "view_id": "left"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.3729635563204108,
+                        "norm_y": 0.44276937751417694,
+                        "pos_x": 3109.3971690432645,
+                        "pos_y": 2609.682711068559,
+                        "rotation": 90,
+                        "scale_x": 39.67744543225287,
+                        "scale_y": 39.69666158056704
+                    },
+                    "view_id": "right"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.7822028869347049,
+                        "norm_y": 0.44278278131012894,
+                        "pos_x": 6521.225468374634,
+                        "pos_y": 2609.7617130419,
+                        "rotation": 180,
+                        "scale_x": 39.657356253209386,
+                        "scale_y": 39.66074116379079
+                    },
+                    "view_id": "top"
+                }
+            ],
+            "file_name": "2023-2024-1-294.png",
+            "image_size": {
+                "height": 5894,
+                "width": 8337
+            }
+        }
+    ]
+}

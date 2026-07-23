@@ -1,0 +1,65 @@
+{
+    "dataset_version": "1.0",
+    "images": [
+        {
+            "annotations": [
+                {
+                    "present": false,
+                    "view_id": "back"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.3816210962457287,
+                        "norm_y": 0.6536516070463966,
+                        "pos_x": 3181.5750794006403,
+                        "pos_y": 3852.622571931461,
+                        "rotation": 180,
+                        "scale_x": 9.925764811219684,
+                        "scale_y": 9.92232751990721
+                    },
+                    "view_id": "bottom"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.3816712202029452,
+                        "norm_y": 0.3020580098441519,
+                        "pos_x": 3181.992962831954,
+                        "pos_y": 1780.3299100214313,
+                        "rotation": 180,
+                        "scale_x": 9.925764811219684,
+                        "scale_y": 9.92232751990721
+                    },
+                    "view_id": "front"
+                },
+                {
+                    "present": false,
+                    "view_id": "left"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.7421009202839899,
+                        "norm_y": 0.3020435092605756,
+                        "pos_x": 6186.895372407624,
+                        "pos_y": 1780.2444435818325,
+                        "rotation": 180,
+                        "scale_x": 9.925764811219684,
+                        "scale_y": 9.92232751990721
+                    },
+                    "view_id": "right"
+                },
+                {
+                    "present": false,
+                    "view_id": "top"
+                }
+            ],
+            "file_name": "2023-2024-1-806.png",
+            "image_size": {
+                "height": 5894,
+                "width": 8337
+            }
+        }
+    ]
+}

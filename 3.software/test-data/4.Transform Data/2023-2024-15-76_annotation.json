@@ -1,0 +1,83 @@
+{
+    "dataset_version": "1.0",
+    "images": [
+        {
+            "annotations": [
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.2562121351977181,
+                        "norm_y": 0.15538556929651728,
+                        "pos_x": 1510.1143248553508,
+                        "pos_y": 647.4916672585875,
+                        "rotation": 0,
+                        "scale_x": 9.923949400579646,
+                        "scale_y": 9.920802633144193
+                    },
+                    "view_id": "back"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.722300433526829,
+                        "norm_y": 0.47808219216406805,
+                        "pos_x": 4257.23875520713,
+                        "pos_y": 1992.1684947476715,
+                        "rotation": 0,
+                        "scale_x": 9.922132493231087,
+                        "scale_y": 9.92548575184011
+                    },
+                    "view_id": "bottom"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.7223432699061443,
+                        "norm_y": 0.15543796418421457,
+                        "pos_x": 4257.491232826815,
+                        "pos_y": 647.7099967556221,
+                        "rotation": 0,
+                        "scale_x": 9.922132493231087,
+                        "scale_y": 9.918423070316674
+                    },
+                    "view_id": "front"
+                },
+                {
+                    "present": false,
+                    "view_id": "left"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.48990665397460986,
+                        "norm_y": 0.1553873457244721,
+                        "pos_x": 2887.5098185263505,
+                        "pos_y": 647.4990696338753,
+                        "rotation": 0,
+                        "scale_x": 9.920032496988942,
+                        "scale_y": 9.919247577099707
+                    },
+                    "view_id": "right"
+                },
+                {
+                    "present": true,
+                    "transform": {
+                        "norm_x": 0.2561927561212051,
+                        "norm_y": 0.5005737497823369,
+                        "pos_x": 1510.000104578383,
+                        "pos_y": 2085.890815342998,
+                        "rotation": 180,
+                        "scale_x": 9.923730585939266,
+                        "scale_y": 9.923293953926827
+                    },
+                    "view_id": "top"
+                }
+            ],
+            "file_name": "2023-2024-15-76.png",
+            "image_size": {
+                "height": 4167,
+                "width": 5894
+            }
+        }
+    ]
+}

@@ -1,0 +1,1242 @@
+{
+  "stepFileName": "2023-2024-38-18.stp",
+  "createdTime": "2026-04-08 10:46:49",
+  "views": {
+    "0": {
+      "viewID": 0,
+      "viewName": "front",
+      "edges": {
+        "0": {
+          "type": "Other",
+          "start": [0.000000, 0.000000],
+          "end": [0.000000, 0.000000],
+          "discretePoints": [],
+          "faceRefs": []
+        },
+        "1": {
+          "type": "Line",
+          "start": [-12.000000, 0.000000],
+          "end": [-14.000000, 0.000000],
+          "discretePoints": [[-12.000000, 0.000000], [-14.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 11, "priority": "Medium"}]
+        },
+        "2": {
+          "type": "Spline",
+          "start": [-9.000000, 0.000000],
+          "end": [-12.000000, 0.000000],
+          "discretePoints": [[-9.000000, 0.000000], [-12.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 13, "priority": "Medium"}]
+        },
+        "3": {
+          "type": "Line",
+          "start": [9.000000, 0.000000],
+          "end": [-9.000000, 0.000000],
+          "discretePoints": [[9.000000, 0.000000], [-9.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 14, "priority": "High"}]
+        },
+        "4": {
+          "type": "Spline",
+          "start": [12.000000, 0.000000],
+          "end": [9.000000, 0.000000],
+          "discretePoints": [[12.000000, 0.000000], [9.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 15, "priority": "Medium"}]
+        },
+        "5": {
+          "type": "Line",
+          "start": [14.000000, 0.000000],
+          "end": [12.000000, 0.000000],
+          "discretePoints": [[14.000000, 0.000000], [12.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 17, "priority": "Medium"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [14.000000, 0.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[14.000000, 0.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 19, "priority": "High"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [60.000000, 0.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[60.000000, 0.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [-25.000000, 0.000000],
+          "end": [-60.000000, 0.000000],
+          "discretePoints": [[-25.000000, 0.000000], [-60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [-25.000000, 0.000000],
+          "end": [-14.000000, 0.000000],
+          "discretePoints": [[-25.000000, 0.000000], [-14.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 18, "priority": "High"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [-14.000000, 5.000000],
+          "end": [-12.000000, 5.000000],
+          "discretePoints": [[-14.000000, 5.000000], [-12.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 11, "priority": "Medium"}]
+        },
+        "11": {
+          "type": "Line",
+          "start": [-25.000000, 5.000000],
+          "end": [-14.000000, 5.000000],
+          "discretePoints": [[-25.000000, 5.000000], [-14.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 18, "priority": "High"}]
+        },
+        "12": {
+          "type": "Line",
+          "start": [-60.000000, 5.000000],
+          "end": [-25.000000, 5.000000],
+          "discretePoints": [[-60.000000, 5.000000], [-25.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "13": {
+          "type": "Line",
+          "start": [25.000000, 5.000000],
+          "end": [60.000000, 5.000000],
+          "discretePoints": [[25.000000, 5.000000], [60.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "14": {
+          "type": "Line",
+          "start": [14.000000, 5.000000],
+          "end": [25.000000, 5.000000],
+          "discretePoints": [[14.000000, 5.000000], [25.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 19, "priority": "High"}]
+        },
+        "15": {
+          "type": "Line",
+          "start": [12.000000, 5.000000],
+          "end": [14.000000, 5.000000],
+          "discretePoints": [[12.000000, 5.000000], [14.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 17, "priority": "Medium"}]
+        },
+        "16": {
+          "type": "Spline",
+          "start": [9.000000, 5.000000],
+          "end": [12.000000, 5.000000],
+          "discretePoints": [[9.000000, 5.000000], [12.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 15, "priority": "Medium"}]
+        },
+        "17": {
+          "type": "Line",
+          "start": [9.000000, 5.000000],
+          "end": [-9.000000, 5.000000],
+          "discretePoints": [[9.000000, 5.000000], [-9.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 14, "priority": "High"}]
+        },
+        "18": {
+          "type": "Spline",
+          "start": [-12.000000, 5.000000],
+          "end": [-9.000000, 5.000000],
+          "discretePoints": [[-12.000000, 5.000000], [-9.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 13, "priority": "Medium"}]
+        },
+        "19": {
+          "type": "Line",
+          "start": [-12.000000, 0.000000],
+          "end": [-12.000000, 5.000000],
+          "discretePoints": [[-12.000000, 0.000000], [-12.000000, 5.000000]],
+          "faceRefs": [{"faceID": 12, "priority": "Highest"}, {"faceID": 11, "priority": "Medium"}]
+        },
+        "20": {
+          "type": "Line",
+          "start": [-14.000000, 0.000000],
+          "end": [-14.000000, 5.000000],
+          "discretePoints": [[-14.000000, 0.000000], [-14.000000, 5.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "High"}, {"faceID": 11, "priority": "Medium"}]
+        },
+        "21": {
+          "type": "Line",
+          "start": [-9.000000, 5.000000],
+          "end": [-9.000000, 0.000000],
+          "discretePoints": [[-9.000000, 5.000000], [-9.000000, 0.000000]],
+          "faceRefs": [{"faceID": 14, "priority": "High"}, {"faceID": 13, "priority": "Medium"}]
+        },
+        "22": {
+          "type": "Line",
+          "start": [9.000000, 5.000000],
+          "end": [9.000000, 0.000000],
+          "discretePoints": [[9.000000, 5.000000], [9.000000, 0.000000]],
+          "faceRefs": [{"faceID": 14, "priority": "High"}, {"faceID": 15, "priority": "Medium"}]
+        },
+        "23": {
+          "type": "Line",
+          "start": [12.000000, 5.000000],
+          "end": [12.000000, 0.000000],
+          "discretePoints": [[12.000000, 5.000000], [12.000000, 0.000000]],
+          "faceRefs": [{"faceID": 16, "priority": "Highest"}, {"faceID": 17, "priority": "Medium"}]
+        },
+        "24": {
+          "type": "Line",
+          "start": [14.000000, 5.000000],
+          "end": [14.000000, 0.000000],
+          "discretePoints": [[14.000000, 5.000000], [14.000000, 0.000000]],
+          "faceRefs": [{"faceID": 19, "priority": "High"}, {"faceID": 17, "priority": "Medium"}]
+        },
+        "25": {
+          "type": "Line",
+          "start": [-25.000000, 5.000000],
+          "end": [-25.000000, 0.000000],
+          "discretePoints": [[-25.000000, 5.000000], [-25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "High"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "26": {
+          "type": "Line",
+          "start": [25.000000, 5.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[25.000000, 5.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 19, "priority": "High"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "27": {
+          "type": "Line",
+          "start": [-60.000000, 5.000000],
+          "end": [-60.000000, 0.000000],
+          "discretePoints": [[-60.000000, 5.000000], [-60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "Highest"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "28": {
+          "type": "Line",
+          "start": [60.000000, 5.000000],
+          "end": [60.000000, 0.000000],
+          "discretePoints": [[60.000000, 5.000000], [60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "Highest"}, {"faceID": 26, "priority": "Medium"}]
+        }
+      }
+    },
+    "1": {
+      "viewID": 1,
+      "viewName": "back",
+      "edges": {
+        "0": {
+          "type": "Other",
+          "start": [0.000000, 0.000000],
+          "end": [0.000000, 0.000000],
+          "discretePoints": [],
+          "faceRefs": []
+        },
+        "1": {
+          "type": "Line",
+          "start": [-25.000000, 0.000000],
+          "end": [-60.000000, 0.000000],
+          "discretePoints": [[-25.000000, 0.000000], [-60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "2": {
+          "type": "Line",
+          "start": [-25.000000, 0.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[-25.000000, 0.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 23, "priority": "High"}]
+        },
+        "3": {
+          "type": "Line",
+          "start": [60.000000, 0.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[60.000000, 0.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "4": {
+          "type": "Line",
+          "start": [25.000000, 5.000000],
+          "end": [60.000000, 5.000000],
+          "discretePoints": [[25.000000, 5.000000], [60.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "5": {
+          "type": "Line",
+          "start": [-25.000000, 5.000000],
+          "end": [25.000000, 5.000000],
+          "discretePoints": [[-25.000000, 5.000000], [25.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 23, "priority": "High"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [-60.000000, 5.000000],
+          "end": [-25.000000, 5.000000],
+          "discretePoints": [[-60.000000, 5.000000], [-25.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [60.000000, 5.000000],
+          "end": [60.000000, 0.000000],
+          "discretePoints": [[60.000000, 5.000000], [60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [25.000000, 5.000000],
+          "end": [25.000000, 0.000000],
+          "discretePoints": [[25.000000, 5.000000], [25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "High"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [-25.000000, 5.000000],
+          "end": [-25.000000, 0.000000],
+          "discretePoints": [[-25.000000, 5.000000], [-25.000000, 0.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "High"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [-60.000000, 5.000000],
+          "end": [-60.000000, 0.000000],
+          "discretePoints": [[-60.000000, 5.000000], [-60.000000, 0.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        }
+      }
+    },
+    "2": {
+      "viewID": 2,
+      "viewName": "left",
+      "edges": {
+        "0": {
+          "type": "Other",
+          "start": [0.000000, 0.000000],
+          "end": [0.000000, 0.000000],
+          "discretePoints": [],
+          "faceRefs": []
+        },
+        "1": {
+          "type": "Line",
+          "start": [-20.000000, 0.000000],
+          "end": [-55.000000, 0.000000],
+          "discretePoints": [[-20.000000, 0.000000], [-55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "2": {
+          "type": "Line",
+          "start": [-20.000000, 0.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[-20.000000, 0.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 21, "priority": "High"}]
+        },
+        "3": {
+          "type": "Line",
+          "start": [55.000000, 0.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[55.000000, 0.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "4": {
+          "type": "Line",
+          "start": [20.000000, 5.000000],
+          "end": [55.000000, 5.000000],
+          "discretePoints": [[20.000000, 5.000000], [55.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "5": {
+          "type": "Line",
+          "start": [-20.000000, 5.000000],
+          "end": [20.000000, 5.000000],
+          "discretePoints": [[-20.000000, 5.000000], [20.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 21, "priority": "High"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [-55.000000, 5.000000],
+          "end": [-20.000000, 5.000000],
+          "discretePoints": [[-55.000000, 5.000000], [-20.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [55.000000, 5.000000],
+          "end": [55.000000, 0.000000],
+          "discretePoints": [[55.000000, 5.000000], [55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "Highest"}, {"faceID": 19, "priority": "High"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [20.000000, 5.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[20.000000, 5.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "High"}, {"faceID": 20, "priority": "Medium"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [-20.000000, 5.000000],
+          "end": [-20.000000, 0.000000],
+          "discretePoints": [[-20.000000, 5.000000], [-20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "High"}, {"faceID": 22, "priority": "Medium"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [-55.000000, 5.000000],
+          "end": [-55.000000, 0.000000],
+          "discretePoints": [[-55.000000, 5.000000], [-55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "Highest"}, {"faceID": 22, "priority": "Medium"}]
+        }
+      }
+    },
+    "3": {
+      "viewID": 3,
+      "viewName": "right",
+      "edges": {
+        "0": {
+          "type": "Other",
+          "start": [0.000000, 0.000000],
+          "end": [0.000000, 0.000000],
+          "discretePoints": [],
+          "faceRefs": []
+        },
+        "1": {
+          "type": "Line",
+          "start": [-20.000000, 0.000000],
+          "end": [-55.000000, 0.000000],
+          "discretePoints": [[-20.000000, 0.000000], [-55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "2": {
+          "type": "Line",
+          "start": [-20.000000, 0.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[-20.000000, 0.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 25, "priority": "High"}]
+        },
+        "3": {
+          "type": "Line",
+          "start": [55.000000, 0.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[55.000000, 0.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 1, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "4": {
+          "type": "Line",
+          "start": [20.000000, 5.000000],
+          "end": [55.000000, 5.000000],
+          "discretePoints": [[20.000000, 5.000000], [55.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "5": {
+          "type": "Line",
+          "start": [-20.000000, 5.000000],
+          "end": [20.000000, 5.000000],
+          "discretePoints": [[-20.000000, 5.000000], [20.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 25, "priority": "High"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [-55.000000, 5.000000],
+          "end": [-20.000000, 5.000000],
+          "discretePoints": [[-55.000000, 5.000000], [-20.000000, 5.000000]],
+          "faceRefs": [{"faceID": 4, "priority": "Highest"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [-55.000000, 5.000000],
+          "end": [-55.000000, 0.000000],
+          "discretePoints": [[-55.000000, 5.000000], [-55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "Highest"}, {"faceID": 19, "priority": "High"}, {"faceID": 26, "priority": "Medium"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [55.000000, 5.000000],
+          "end": [55.000000, 0.000000],
+          "discretePoints": [[55.000000, 5.000000], [55.000000, 0.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "Highest"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [20.000000, 5.000000],
+          "end": [20.000000, 0.000000],
+          "discretePoints": [[20.000000, 5.000000], [20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "High"}, {"faceID": 24, "priority": "Medium"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [-20.000000, 5.000000],
+          "end": [-20.000000, 0.000000],
+          "discretePoints": [[-20.000000, 5.000000], [-20.000000, 0.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "High"}, {"faceID": 26, "priority": "Medium"}]
+        }
+      }
+    },
+    "4": {
+      "viewID": 4,
+      "viewName": "top",
+      "edges": {
+        "1": {
+          "type": "Circle",
+          "start": [-9.000000, -25.000000],
+          "end": [-12.000000, -28.000000],
+          "center": [-9.000000, -28.000000],
+          "radius": 3.000000,
+          "startAngle": 0.000000,
+          "endAngle": 1.570796,
+          "discretePoints": [[-9.000000, -25.000000], [-10.148050, -25.228361], [-11.121320, -25.878680], [-11.771639, -26.851950], [-12.000000, -28.000000]],
+          "faceRefs": [{"faceID": 13, "priority": "Highest"}, {"faceID": 1, "priority": "High"}, {"faceID": 4, "priority": "High"}]
+        },
+        "2": {
+          "type": "Circle",
+          "start": [12.000000, -28.000000],
+          "end": [9.000000, -25.000000],
+          "center": [9.000000, -28.000000],
+          "radius": 3.000000,
+          "startAngle": 0.000000,
+          "endAngle": 1.570796,
+          "discretePoints": [[12.000000, -28.000000], [11.771639, -26.851950], [11.121320, -25.878680], [10.148050, -25.228361], [9.000000, -25.000000]],
+          "faceRefs": [{"faceID": 15, "priority": "Highest"}, {"faceID": 1, "priority": "High"}, {"faceID": 4, "priority": "High"}]
+        },
+        "3": {
+          "type": "Circle",
+          "start": [-16.750000, -40.270181],
+          "end": [-29.750000, -40.270181],
+          "center": [-23.250000, -40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-16.750000, -40.270181], [-17.141998, -42.493312], [-18.270711, -44.448301], [-20.000000, -45.899346], [-22.121287, -46.671432], [-24.378713, -46.671432], [-26.500000, -45.899346], [-28.229289, -44.448301], [-29.358002, -42.493312], [-29.750000, -40.270181]],
+          "faceRefs": [{"faceID": 2, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "4": {
+          "type": "Circle",
+          "start": [-29.750000, -40.270181],
+          "end": [-16.750000, -40.270181],
+          "center": [-23.250000, -40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-29.750000, -40.270181], [-29.358002, -38.047050], [-28.229289, -36.092062], [-26.500000, -34.641016], [-24.378713, -33.868931], [-22.121287, -33.868931], [-20.000000, -34.641016], [-18.270711, -36.092062], [-17.141998, -38.047050], [-16.750000, -40.270181]],
+          "faceRefs": [{"faceID": 3, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "5": {
+          "type": "Line",
+          "start": [-14.000000, -55.000000],
+          "end": [-12.000000, -53.000000],
+          "discretePoints": [[-14.000000, -55.000000], [-12.000000, -53.000000]],
+          "faceRefs": [{"faceID": 11, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [-25.000000, -55.000000],
+          "end": [-14.000000, -55.000000],
+          "discretePoints": [[-25.000000, -55.000000], [-14.000000, -55.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [-60.000000, -20.000000],
+          "end": [-25.000000, -55.000000],
+          "discretePoints": [[-60.000000, -20.000000], [-25.000000, -55.000000]],
+          "faceRefs": [{"faceID": 20, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [-60.000000, 20.000000],
+          "end": [-60.000000, -20.000000],
+          "discretePoints": [[-60.000000, 20.000000], [-60.000000, -20.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [-25.000000, 55.000000],
+          "end": [-60.000000, 20.000000],
+          "discretePoints": [[-25.000000, 55.000000], [-60.000000, 20.000000]],
+          "faceRefs": [{"faceID": 22, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [25.000000, 55.000000],
+          "end": [-25.000000, 55.000000],
+          "discretePoints": [[25.000000, 55.000000], [-25.000000, 55.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "11": {
+          "type": "Line",
+          "start": [60.000000, 20.000000],
+          "end": [25.000000, 55.000000],
+          "discretePoints": [[60.000000, 20.000000], [25.000000, 55.000000]],
+          "faceRefs": [{"faceID": 24, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "12": {
+          "type": "Line",
+          "start": [60.000000, -20.000000],
+          "end": [60.000000, 20.000000],
+          "discretePoints": [[60.000000, -20.000000], [60.000000, 20.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "13": {
+          "type": "Line",
+          "start": [25.000000, -55.000000],
+          "end": [60.000000, -20.000000],
+          "discretePoints": [[25.000000, -55.000000], [60.000000, -20.000000]],
+          "faceRefs": [{"faceID": 26, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "14": {
+          "type": "Line",
+          "start": [14.000000, -55.000000],
+          "end": [25.000000, -55.000000],
+          "discretePoints": [[14.000000, -55.000000], [25.000000, -55.000000]],
+          "faceRefs": [{"faceID": 19, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "15": {
+          "type": "Line",
+          "start": [12.000000, -53.000000],
+          "end": [14.000000, -55.000000],
+          "discretePoints": [[12.000000, -53.000000], [14.000000, -55.000000]],
+          "faceRefs": [{"faceID": 17, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "16": {
+          "type": "Line",
+          "start": [12.000000, -53.000000],
+          "end": [12.000000, -28.000000],
+          "discretePoints": [[12.000000, -53.000000], [12.000000, -28.000000]],
+          "faceRefs": [{"faceID": 16, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "17": {
+          "type": "Line",
+          "start": [9.000000, -25.000000],
+          "end": [-9.000000, -25.000000],
+          "discretePoints": [[9.000000, -25.000000], [-9.000000, -25.000000]],
+          "faceRefs": [{"faceID": 14, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "18": {
+          "type": "Line",
+          "start": [-12.000000, -53.000000],
+          "end": [-12.000000, -28.000000],
+          "discretePoints": [[-12.000000, -53.000000], [-12.000000, -28.000000]],
+          "faceRefs": [{"faceID": 12, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "19": {
+          "type": "Circle",
+          "start": [29.750000, -40.270181],
+          "end": [16.750000, -40.270181],
+          "center": [23.250000, -40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[29.750000, -40.270181], [29.358002, -42.493312], [28.229289, -44.448301], [26.500000, -45.899346], [24.378713, -46.671432], [22.121287, -46.671432], [20.000000, -45.899346], [18.270711, -44.448301], [17.141998, -42.493312], [16.750000, -40.270181]],
+          "faceRefs": [{"faceID": 5, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "20": {
+          "type": "Circle",
+          "start": [16.750000, -40.270181],
+          "end": [29.750000, -40.270181],
+          "center": [23.250000, -40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[16.750000, -40.270181], [17.141998, -38.047050], [18.270711, -36.092062], [20.000000, -34.641016], [22.121287, -33.868931], [24.378713, -33.868931], [26.500000, -34.641016], [28.229289, -36.092062], [29.358002, -38.047050], [29.750000, -40.270181]],
+          "faceRefs": [{"faceID": 6, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "21": {
+          "type": "Circle",
+          "start": [46.770181, 23.250000],
+          "end": [33.770181, 23.250000],
+          "center": [40.270181, 23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[46.770181, 23.250000], [46.378183, 21.026869], [45.249470, 19.071881], [43.520181, 17.620835], [41.398894, 16.848750], [39.141468, 16.848750], [37.020181, 17.620835], [35.290892, 19.071881], [34.162179, 21.026869], [33.770181, 23.250000]],
+          "faceRefs": [{"faceID": 7, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "22": {
+          "type": "Circle",
+          "start": [33.770181, 23.250000],
+          "end": [46.770181, 23.250000],
+          "center": [40.270181, 23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[33.770181, 23.250000], [34.162179, 25.473131], [35.290892, 27.428119], [37.020181, 28.879165], [39.141468, 29.651250], [41.398894, 29.651250], [43.520181, 28.879165], [45.249470, 27.428119], [46.378183, 25.473131], [46.770181, 23.250000]],
+          "faceRefs": [{"faceID": 8, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "23": {
+          "type": "Circle",
+          "start": [-33.770181, 23.250000],
+          "end": [-46.770181, 23.250000],
+          "center": [-40.270181, 23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-33.770181, 23.250000], [-34.162179, 21.026869], [-35.290892, 19.071881], [-37.020181, 17.620835], [-39.141468, 16.848750], [-41.398894, 16.848750], [-43.520181, 17.620835], [-45.249470, 19.071881], [-46.378183, 21.026869], [-46.770181, 23.250000]],
+          "faceRefs": [{"faceID": 9, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        },
+        "24": {
+          "type": "Circle",
+          "start": [-46.770181, 23.250000],
+          "end": [-33.770181, 23.250000],
+          "center": [-40.270181, 23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-46.770181, 23.250000], [-46.378183, 25.473131], [-45.249470, 27.428119], [-43.520181, 28.879165], [-41.398894, 29.651250], [-39.141468, 29.651250], [-37.020181, 28.879165], [-35.290892, 27.428119], [-34.162179, 25.473131], [-33.770181, 23.250000]],
+          "faceRefs": [{"faceID": 10, "priority": "Highest"}, {"faceID": 4, "priority": "High"}]
+        }
+      }
+    },
+    "5": {
+      "viewID": 5,
+      "viewName": "bottom",
+      "edges": {
+        "1": {
+          "type": "Line",
+          "start": [-12.000000, 53.000000],
+          "end": [-14.000000, 55.000000],
+          "discretePoints": [[-12.000000, 53.000000], [-14.000000, 55.000000]],
+          "faceRefs": [{"faceID": 11, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "2": {
+          "type": "Line",
+          "start": [-12.000000, 53.000000],
+          "end": [-12.000000, 28.000000],
+          "discretePoints": [[-12.000000, 53.000000], [-12.000000, 28.000000]],
+          "faceRefs": [{"faceID": 12, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "3": {
+          "type": "Circle",
+          "start": [-9.000000, 25.000000],
+          "end": [-12.000000, 28.000000],
+          "center": [-9.000000, 28.000000],
+          "radius": 3.000000,
+          "startAngle": 0.000000,
+          "endAngle": 1.570796,
+          "discretePoints": [[-9.000000, 25.000000], [-10.148050, 25.228361], [-11.121320, 25.878680], [-11.771639, 26.851950], [-12.000000, 28.000000]],
+          "faceRefs": [{"faceID": 13, "priority": "Highest"}, {"faceID": 1, "priority": "High"}, {"faceID": 4, "priority": "High"}]
+        },
+        "4": {
+          "type": "Line",
+          "start": [9.000000, 25.000000],
+          "end": [-9.000000, 25.000000],
+          "discretePoints": [[9.000000, 25.000000], [-9.000000, 25.000000]],
+          "faceRefs": [{"faceID": 14, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "5": {
+          "type": "Circle",
+          "start": [12.000000, 28.000000],
+          "end": [9.000000, 25.000000],
+          "center": [9.000000, 28.000000],
+          "radius": 3.000000,
+          "startAngle": 0.000000,
+          "endAngle": 1.570796,
+          "discretePoints": [[12.000000, 28.000000], [11.771639, 26.851950], [11.121320, 25.878680], [10.148050, 25.228361], [9.000000, 25.000000]],
+          "faceRefs": [{"faceID": 15, "priority": "Highest"}, {"faceID": 1, "priority": "High"}, {"faceID": 4, "priority": "High"}]
+        },
+        "6": {
+          "type": "Line",
+          "start": [12.000000, 53.000000],
+          "end": [12.000000, 28.000000],
+          "discretePoints": [[12.000000, 53.000000], [12.000000, 28.000000]],
+          "faceRefs": [{"faceID": 16, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "7": {
+          "type": "Line",
+          "start": [14.000000, 55.000000],
+          "end": [12.000000, 53.000000],
+          "discretePoints": [[14.000000, 55.000000], [12.000000, 53.000000]],
+          "faceRefs": [{"faceID": 17, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "8": {
+          "type": "Line",
+          "start": [14.000000, 55.000000],
+          "end": [25.000000, 55.000000],
+          "discretePoints": [[14.000000, 55.000000], [25.000000, 55.000000]],
+          "faceRefs": [{"faceID": 19, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "9": {
+          "type": "Line",
+          "start": [60.000000, 20.000000],
+          "end": [25.000000, 55.000000],
+          "discretePoints": [[60.000000, 20.000000], [25.000000, 55.000000]],
+          "faceRefs": [{"faceID": 26, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "10": {
+          "type": "Line",
+          "start": [60.000000, 20.000000],
+          "end": [60.000000, -20.000000],
+          "discretePoints": [[60.000000, 20.000000], [60.000000, -20.000000]],
+          "faceRefs": [{"faceID": 25, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "11": {
+          "type": "Line",
+          "start": [25.000000, -55.000000],
+          "end": [60.000000, -20.000000],
+          "discretePoints": [[25.000000, -55.000000], [60.000000, -20.000000]],
+          "faceRefs": [{"faceID": 24, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "12": {
+          "type": "Line",
+          "start": [25.000000, -55.000000],
+          "end": [-25.000000, -55.000000],
+          "discretePoints": [[25.000000, -55.000000], [-25.000000, -55.000000]],
+          "faceRefs": [{"faceID": 23, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "13": {
+          "type": "Line",
+          "start": [-60.000000, -20.000000],
+          "end": [-25.000000, -55.000000],
+          "discretePoints": [[-60.000000, -20.000000], [-25.000000, -55.000000]],
+          "faceRefs": [{"faceID": 22, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "14": {
+          "type": "Line",
+          "start": [-60.000000, -20.000000],
+          "end": [-60.000000, 20.000000],
+          "discretePoints": [[-60.000000, -20.000000], [-60.000000, 20.000000]],
+          "faceRefs": [{"faceID": 21, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "15": {
+          "type": "Line",
+          "start": [-25.000000, 55.000000],
+          "end": [-60.000000, 20.000000],
+          "discretePoints": [[-25.000000, 55.000000], [-60.000000, 20.000000]],
+          "faceRefs": [{"faceID": 20, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "16": {
+          "type": "Line",
+          "start": [-25.000000, 55.000000],
+          "end": [-14.000000, 55.000000],
+          "discretePoints": [[-25.000000, 55.000000], [-14.000000, 55.000000]],
+          "faceRefs": [{"faceID": 18, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "17": {
+          "type": "Circle",
+          "start": [29.750000, 40.270181],
+          "end": [16.750000, 40.270181],
+          "center": [23.250000, 40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[29.750000, 40.270181], [29.358002, 42.493312], [28.229289, 44.448301], [26.500000, 45.899346], [24.378713, 46.671432], [22.121287, 46.671432], [20.000000, 45.899346], [18.270711, 44.448301], [17.141998, 42.493312], [16.750000, 40.270181]],
+          "faceRefs": [{"faceID": 5, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "18": {
+          "type": "Circle",
+          "start": [16.750000, 40.270181],
+          "end": [29.750000, 40.270181],
+          "center": [23.250000, 40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[16.750000, 40.270181], [17.141998, 38.047050], [18.270711, 36.092062], [20.000000, 34.641016], [22.121287, 33.868931], [24.378713, 33.868931], [26.500000, 34.641016], [28.229289, 36.092062], [29.358002, 38.047050], [29.750000, 40.270181]],
+          "faceRefs": [{"faceID": 6, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "19": {
+          "type": "Circle",
+          "start": [46.770181, -23.250000],
+          "end": [33.770181, -23.250000],
+          "center": [40.270181, -23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[46.770181, -23.250000], [46.378183, -21.026869], [45.249470, -19.071881], [43.520181, -17.620835], [41.398894, -16.848750], [39.141468, -16.848750], [37.020181, -17.620835], [35.290892, -19.071881], [34.162179, -21.026869], [33.770181, -23.250000]],
+          "faceRefs": [{"faceID": 7, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "20": {
+          "type": "Circle",
+          "start": [33.770181, -23.250000],
+          "end": [46.770181, -23.250000],
+          "center": [40.270181, -23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[33.770181, -23.250000], [34.162179, -25.473131], [35.290892, -27.428119], [37.020181, -28.879165], [39.141468, -29.651250], [41.398894, -29.651250], [43.520181, -28.879165], [45.249470, -27.428119], [46.378183, -25.473131], [46.770181, -23.250000]],
+          "faceRefs": [{"faceID": 8, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "21": {
+          "type": "Circle",
+          "start": [-33.770181, -23.250000],
+          "end": [-46.770181, -23.250000],
+          "center": [-40.270181, -23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-33.770181, -23.250000], [-34.162179, -21.026869], [-35.290892, -19.071881], [-37.020181, -17.620835], [-39.141468, -16.848750], [-41.398894, -16.848750], [-43.520181, -17.620835], [-45.249470, -19.071881], [-46.378183, -21.026869], [-46.770181, -23.250000]],
+          "faceRefs": [{"faceID": 9, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "22": {
+          "type": "Circle",
+          "start": [-46.770181, -23.250000],
+          "end": [-33.770181, -23.250000],
+          "center": [-40.270181, -23.250000],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-46.770181, -23.250000], [-46.378183, -25.473131], [-45.249470, -27.428119], [-43.520181, -28.879165], [-41.398894, -29.651250], [-39.141468, -29.651250], [-37.020181, -28.879165], [-35.290892, -27.428119], [-34.162179, -25.473131], [-33.770181, -23.250000]],
+          "faceRefs": [{"faceID": 10, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "23": {
+          "type": "Circle",
+          "start": [-16.750000, 40.270181],
+          "end": [-29.750000, 40.270181],
+          "center": [-23.250000, 40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-16.750000, 40.270181], [-17.141998, 42.493312], [-18.270711, 44.448301], [-20.000000, 45.899346], [-22.121287, 46.671432], [-24.378713, 46.671432], [-26.500000, 45.899346], [-28.229289, 44.448301], [-29.358002, 42.493312], [-29.750000, 40.270181]],
+          "faceRefs": [{"faceID": 2, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        },
+        "24": {
+          "type": "Circle",
+          "start": [-29.750000, 40.270181],
+          "end": [-16.750000, 40.270181],
+          "center": [-23.250000, 40.270181],
+          "radius": 6.500000,
+          "startAngle": 0.000000,
+          "endAngle": 3.141593,
+          "discretePoints": [[-29.750000, 40.270181], [-29.358002, 38.047050], [-28.229289, 36.092062], [-26.500000, 34.641016], [-24.378713, 33.868931], [-22.121287, 33.868931], [-20.000000, 34.641016], [-18.270711, 36.092062], [-17.141998, 38.047050], [-16.750000, 40.270181]],
+          "faceRefs": [{"faceID": 3, "priority": "Highest"}, {"faceID": 1, "priority": "High"}]
+        }
+      }
+    }
+  },
+  "faces": {
+    "1": {
+      "faceID": 1,
+      "faceType": "Plane",
+      "location": [0.000000, 0.000000, 0.000000],
+      "normal": [-0.000000, 1.000000, 0.000000],
+      "area": 9498.933675,
+      "bbox": {
+        "min": [-60.000000, -0.000000, -55.000000],
+        "max": [60.000000, 0.000000, 55.000000]
+      },
+      "planeCoeffs": [0.000000, 1.000000, 0.000000, -0.000000],
+      "annotations": []
+    },
+    "2": {
+      "faceID": 2,
+      "faceType": "Cylinder",
+      "location": [-23.250000, 5.000000, 40.270181],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [-29.750000, -0.000000, 40.270181],
+        "max": [-16.750000, 5.000000, 46.770181]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "3": {
+      "faceID": 3,
+      "faceType": "Cylinder",
+      "location": [-23.250000, 5.000000, 40.270181],
+      "normal": [-0.000000, -0.000000, -1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [-29.750000, -0.000000, 33.770181],
+        "max": [-16.750000, 5.000000, 40.270181]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "4": {
+      "faceID": 4,
+      "faceType": "Plane",
+      "location": [0.000000, 5.000000, 0.000000],
+      "normal": [-0.000000, 1.000000, 0.000000],
+      "area": 9498.933675,
+      "bbox": {
+        "min": [-60.000000, 5.000000, -55.000000],
+        "max": [60.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [0.000000, 1.000000, 0.000000, -5.000000],
+      "annotations": []
+    },
+    "5": {
+      "faceID": 5,
+      "faceType": "Cylinder",
+      "location": [23.250000, 5.000000, 40.270181],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [16.750000, -0.000000, 40.270181],
+        "max": [29.750000, 5.000000, 46.770181]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "6": {
+      "faceID": 6,
+      "faceType": "Cylinder",
+      "location": [23.250000, 5.000000, 40.270181],
+      "normal": [-0.000000, -0.000000, -1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [16.750000, -0.000000, 33.770181],
+        "max": [29.750000, 5.000000, 40.270181]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "7": {
+      "faceID": 7,
+      "faceType": "Cylinder",
+      "location": [40.270181, 5.000000, -23.250000],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [33.770181, -0.000000, -23.250000],
+        "max": [46.770181, 5.000000, -16.750000]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "8": {
+      "faceID": 8,
+      "faceType": "Cylinder",
+      "location": [40.270181, 5.000000, -23.250000],
+      "normal": [-0.000000, -0.000000, -1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [33.770181, -0.000000, -29.750000],
+        "max": [46.770181, 5.000000, -23.250000]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "9": {
+      "faceID": 9,
+      "faceType": "Cylinder",
+      "location": [-40.270181, 5.000000, -23.250000],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [-46.770181, -0.000000, -23.250000],
+        "max": [-33.770181, 5.000000, -16.750000]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "10": {
+      "faceID": 10,
+      "faceType": "Cylinder",
+      "location": [-40.270181, 5.000000, -23.250000],
+      "normal": [-0.000000, -0.000000, -1.000000],
+      "area": 102.101761,
+      "bbox": {
+        "min": [-46.770181, -0.000000, -29.750000],
+        "max": [-33.770181, 5.000000, -23.250000]
+      },
+      "radius": 6.500000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "11": {
+      "faceID": 11,
+      "faceType": "Plane",
+      "location": [-13.000000, 2.500000, 54.000000],
+      "normal": [0.707107, 0.000000, 0.707107],
+      "area": 14.142136,
+      "bbox": {
+        "min": [-14.000000, -0.000000, 53.000000],
+        "max": [-12.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [0.707107, 0.000000, 0.707107, -28.991378],
+      "annotations": []
+    },
+    "12": {
+      "faceID": 12,
+      "faceType": "Plane",
+      "location": [-12.000000, 5.000000, 25.000000],
+      "normal": [-1.000000, 0.000000, 0.000000],
+      "area": 125.000000,
+      "bbox": {
+        "min": [-12.000000, -0.000000, 28.000000],
+        "max": [-12.000000, 5.000000, 53.000000]
+      },
+      "planeCoeffs": [-1.000000, 0.000000, 0.000000, -12.000000],
+      "annotations": []
+    },
+    "13": {
+      "faceID": 13,
+      "faceType": "Cylinder",
+      "location": [-9.000000, 11.518000, 28.000000],
+      "normal": [-0.707107, -0.000000, -0.707107],
+      "area": 23.561945,
+      "bbox": {
+        "min": [-12.000000, -0.000000, 25.000000],
+        "max": [-9.000000, 5.000000, 28.000000]
+      },
+      "radius": 3.000000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "14": {
+      "faceID": 14,
+      "faceType": "Plane",
+      "location": [12.000000, 5.000000, 25.000000],
+      "normal": [0.000000, 0.000000, -1.000000],
+      "area": 90.000000,
+      "bbox": {
+        "min": [-9.000000, -0.000000, 25.000000],
+        "max": [9.000000, 5.000000, 25.000000]
+      },
+      "planeCoeffs": [0.000000, 0.000000, -1.000000, 25.000000],
+      "annotations": []
+    },
+    "15": {
+      "faceID": 15,
+      "faceType": "Cylinder",
+      "location": [9.000000, 11.518000, 28.000000],
+      "normal": [0.707107, 0.000000, -0.707107],
+      "area": 23.561945,
+      "bbox": {
+        "min": [9.000000, -0.000000, 25.000000],
+        "max": [12.000000, 5.000000, 28.000000]
+      },
+      "radius": 3.000000,
+      "direction": [0.000000, -1.000000, 0.000000],
+      "annotations": []
+    },
+    "16": {
+      "faceID": 16,
+      "faceType": "Plane",
+      "location": [12.000000, 5.000000, 55.000000],
+      "normal": [1.000000, 0.000000, 0.000000],
+      "area": 125.000000,
+      "bbox": {
+        "min": [12.000000, -0.000000, 28.000000],
+        "max": [12.000000, 5.000000, 53.000000]
+      },
+      "planeCoeffs": [1.000000, 0.000000, 0.000000, -12.000000],
+      "annotations": []
+    },
+    "17": {
+      "faceID": 17,
+      "faceType": "Plane",
+      "location": [13.000000, 2.500000, 54.000000],
+      "normal": [-0.707107, 0.000000, 0.707107],
+      "area": 14.142136,
+      "bbox": {
+        "min": [12.000000, -0.000000, 53.000000],
+        "max": [14.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [-0.707107, 0.000000, 0.707107, -28.991378],
+      "annotations": []
+    },
+    "18": {
+      "faceID": 18,
+      "faceType": "Plane",
+      "location": [-60.000000, 0.000000, 55.000000],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 55.000000,
+      "bbox": {
+        "min": [-25.000000, -0.000000, 55.000000],
+        "max": [-14.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [0.000000, 0.000000, 1.000000, -55.000000],
+      "annotations": []
+    },
+    "19": {
+      "faceID": 19,
+      "faceType": "Plane",
+      "location": [-60.000000, 0.000000, 55.000000],
+      "normal": [0.000000, 0.000000, 1.000000],
+      "area": 55.000000,
+      "bbox": {
+        "min": [14.000000, -0.000000, 55.000000],
+        "max": [25.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [0.000000, 0.000000, 1.000000, -55.000000],
+      "annotations": []
+    },
+    "20": {
+      "faceID": 20,
+      "faceType": "Plane",
+      "location": [-42.500000, 2.500000, 37.500000],
+      "normal": [-0.707107, 0.000000, 0.707107],
+      "area": 247.487373,
+      "bbox": {
+        "min": [-60.000000, -0.000000, 20.000000],
+        "max": [-25.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [-0.707107, 0.000000, 0.707107, -56.568542],
+      "annotations": []
+    },
+    "21": {
+      "faceID": 21,
+      "faceType": "Plane",
+      "location": [-60.000000, 0.000000, -55.000000],
+      "normal": [-1.000000, 0.000000, 0.000000],
+      "area": 200.000000,
+      "bbox": {
+        "min": [-60.000000, -0.000000, -20.000000],
+        "max": [-60.000000, 5.000000, 20.000000]
+      },
+      "planeCoeffs": [-1.000000, 0.000000, 0.000000, -60.000000],
+      "annotations": []
+    },
+    "22": {
+      "faceID": 22,
+      "faceType": "Plane",
+      "location": [-42.500000, 2.500000, -37.500000],
+      "normal": [-0.707107, 0.000000, -0.707107],
+      "area": 247.487373,
+      "bbox": {
+        "min": [-60.000000, -0.000000, -55.000000],
+        "max": [-25.000000, 5.000000, -20.000000]
+      },
+      "planeCoeffs": [-0.707107, 0.000000, -0.707107, -56.568542],
+      "annotations": []
+    },
+    "23": {
+      "faceID": 23,
+      "faceType": "Plane",
+      "location": [60.000000, 0.000000, -55.000000],
+      "normal": [0.000000, 0.000000, -1.000000],
+      "area": 250.000000,
+      "bbox": {
+        "min": [-25.000000, -0.000000, -55.000000],
+        "max": [25.000000, 5.000000, -55.000000]
+      },
+      "planeCoeffs": [0.000000, 0.000000, -1.000000, -55.000000],
+      "annotations": []
+    },
+    "24": {
+      "faceID": 24,
+      "faceType": "Plane",
+      "location": [42.500000, 2.500000, -37.500000],
+      "normal": [0.707107, 0.000000, -0.707107],
+      "area": 247.487373,
+      "bbox": {
+        "min": [25.000000, -0.000000, -55.000000],
+        "max": [60.000000, 5.000000, -20.000000]
+      },
+      "planeCoeffs": [0.707107, 0.000000, -0.707107, -56.568542],
+      "annotations": []
+    },
+    "25": {
+      "faceID": 25,
+      "faceType": "Plane",
+      "location": [60.000000, 0.000000, 55.000000],
+      "normal": [1.000000, 0.000000, 0.000000],
+      "area": 200.000000,
+      "bbox": {
+        "min": [60.000000, -0.000000, -20.000000],
+        "max": [60.000000, 5.000000, 20.000000]
+      },
+      "planeCoeffs": [1.000000, 0.000000, 0.000000, -60.000000],
+      "annotations": []
+    },
+    "26": {
+      "faceID": 26,
+      "faceType": "Plane",
+      "location": [42.500000, 2.500000, 37.500000],
+      "normal": [0.707107, 0.000000, 0.707107],
+      "area": 247.487373,
+      "bbox": {
+        "min": [25.000000, -0.000000, 20.000000],
+        "max": [60.000000, 5.000000, 55.000000]
+      },
+      "planeCoeffs": [0.707107, 0.000000, 0.707107, -56.568542],
+      "annotations": []
+    }
+  }
+}

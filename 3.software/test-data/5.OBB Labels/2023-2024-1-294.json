@@ -1,0 +1,692 @@
+{
+    "version": "2.5.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "PMI_FCF",
+            "score": 0.9642083644866943,
+            "points": [
+                [
+                    5085.871930692583,
+                    2891.0716144909584
+                ],
+                [
+                    5734.716216216216,
+                    2891.594594594595
+                ],
+                [
+                    5734.911853091201,
+                    2648.874331454989
+                ],
+                [
+                    5086.0675675675675,
+                    2648.3513513513517
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0.0008060177180428772,
+            "cropped_image": "2023-2024-1-294_PMI_FCF_0.png",
+            "PMI": {
+                "Raw text": [
+                    "<FCF-Flat>",
+                    "</FCF-index>[0.02]",
+                    "</FCF-base>[A]"
+                ],
+                "Description": {
+                    "FCF": {
+                        "type": "Flat",
+                        "value": 0.02,
+                        "datum plane": "A"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Line",
+            "score": 0.9630522727966309,
+            "points": [
+                [
+                    6581.989922587959,
+                    1334.2239484936965
+                ],
+                [
+                    6581.957228286933,
+                    1238.7102067548365
+                ],
+                [
+                    6459.215931589516,
+                    1238.7522210328805
+                ],
+                [
+                    6459.248625890542,
+                    1334.2659627717405
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 4.712046680950558,
+            "cropped_image": "2023-2024-1-294_PMI_Line_0.png",
+            "PMI": {
+                "Raw text": [
+                    "30"
+                ],
+                "Description": {
+                    "Linear dimension": {
+                        "value": 30
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_FCF",
+            "score": 0.9575287103652954,
+            "points": [
+                [
+                    7378.916666666667,
+                    2416.666666666667
+                ],
+                [
+                    7989.500836398702,
+                    2416.211190316443
+                ],
+                [
+                    7989.333333333334,
+                    2191.666666666667
+                ],
+                [
+                    7378.749163601299,
+                    2192.1221430168903
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 6.2824393391569675,
+            "cropped_image": "2023-2024-1-294_PMI_FCF_1.png",
+            "PMI": {
+                "Raw text": [
+                    "<FCF-Parallelism>",
+                    "</FCF-index>[0.05]",
+                    "</FCF-base>[A]"
+                ],
+                "Description": {
+                    "FCF": {
+                        "type": "Parallelism",
+                        "value": 0.05,
+                        "datum plane": "A"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Line",
+            "score": 0.9458914995193481,
+            "points": [
+                [
+                    3166.4266017434516,
+                    1371.211537335282
+                ],
+                [
+                    3166.6497542189973,
+                    1274.646344640611
+                ],
+                [
+                    3045.5222977746903,
+                    1274.3664312369526
+                ],
+                [
+                    3045.2991452991455,
+                    1370.931623931624
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 4.714699875978527,
+            "cropped_image": "2023-2024-1-294_PMI_Line_1.png",
+            "PMI": {
+                "Raw text": [
+                    "60"
+                ],
+                "Description": {
+                    "Linear dimension": {
+                        "value": 60
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Rough",
+            "score": 0.9410102367401123,
+            "points": [
+                [
+                    7589.333333333334,
+                    470.83333333333337
+                ],
+                [
+                    8036.87910206086,
+                    470.9429904633606
+                ],
+                [
+                    8036.93344586767,
+                    249.1485591434496
+                ],
+                [
+                    7589.387677140144,
+                    249.03890201342236
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0.0002450188014169809,
+            "cropped_image": "2023-2024-1-294_PMI_Rough_0.png",
+            "PMI": {
+                "Raw text": [
+                    "</rough-ex>[其余]",
+                    "<Rough-Removal>",
+                    "</rough-index>[6.3]"
+                ],
+                "Description": {
+                    "Roughness": {
+                        "target": "default",
+                        "type": "Removal",
+                        "max": 6.3
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Circle_screw",
+            "score": 0.9171180725097656,
+            "points": [
+                [
+                    1615.3687242263895,
+                    1132.1173316337135
+                ],
+                [
+                    2101.176470588235,
+                    1131.705882352941
+                ],
+                [
+                    2101.082366127099,
+                    1020.5945538767581
+                ],
+                [
+                    1615.2746197652532,
+                    1021.0060031575308
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 6.282338368888718,
+            "cropped_image": "2023-2024-1-294_PMI_Circle_screw_0.png",
+            "PMI": {
+                "Raw text": [
+                    "6-M6贯穿"
+                ],
+                "Description": {
+                    "Screw": {
+                        "quantity": 6,
+                        "value": "M6",
+                        "depth": "THRU"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_ex_Others",
+            "score": 0.909995436668396,
+            "points": [
+                [
+                    474.46655369339095,
+                    5783.056634796792
+                ],
+                [
+                    3146.4361095179593,
+                    5787.73300122771
+                ],
+                [
+                    3148.161863516875,
+                    4801.6763664309165
+                ],
+                [
+                    476.1923076923074,
+                    4797.0
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0.0017501552912848964,
+            "cropped_image": "2023-2024-1-294_PMI_ex_Others_0.png",
+            "PMI": {
+                "Raw text": [
+                    "技术要求：",
+                    "1.未注形位公差按照GB/T 1184-1996 H级规定。",
+                    "2.零件表面光洁，无毛刺、划伤、凹坑等缺陷。",
+                    "3.孔口、锐边等未注倒角C0.5。",
+                    "4.未注孔位公差按±0.2",
+                    "5.工件所有尺寸为成品尺寸。"
+                ],
+                "Description": {
+                    "Technical requirements": {
+                        "text": [
+                            "1.未注形位公差按照GB/T 1184-1996 H级规定。",
+                            "2.零件表面光洁，无毛刺、划伤、凹坑等缺陷。",
+                            "3.孔口、锐边等未注倒角C0.5。",
+                            "4.未注孔位公差按±0.2",
+                            "5.工件所有尺寸为成品尺寸。"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Circle_diam",
+            "score": 0.887601375579834,
+            "points": [
+                [
+                    4122.553386809803,
+                    3988.772411653482
+                ],
+                [
+                    4123.032893646095,
+                    3874.9625930674783
+                ],
+                [
+                    3768.2850623918475,
+                    3873.467959191775
+                ],
+                [
+                    3767.805555555555,
+                    3987.277777777778
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 4.7166021845263915,
+            "cropped_image": "2023-2024-1-294_PMI_Circle_diam_0.png",
+            "PMI": {
+                "Raw text": [
+                    "<Diam>36.5"
+                ],
+                "Description": {
+                    "Circle": {
+                        "diam": 36.5
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Line",
+            "score": 0.8865998983383179,
+            "points": [
+                [
+                    1660.6031515632214,
+                    2366.718866711584
+                ],
+                [
+                    1755.5555555555557,
+                    2366.6666666666665
+                ],
+                [
+                    1755.3427293500026,
+                    1979.5336693310617
+                ],
+                [
+                    1660.3903253576686,
+                    1979.585869375979
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 6.2826355576475725,
+            "cropped_image": "2023-2024-1-294_PMI_Line_2.png",
+            "PMI": {
+                "Raw text": [
+                    "30</allow>[±0.02]"
+                ],
+                "Description": {
+                    "Linear dimension": {
+                        "value": 30,
+                        "tolerance": "±0.02"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Circle_radius",
+            "score": 0.4543537199497223,
+            "points": [
+                [
+                    1901.6268364974715,
+                    3435.5918970568137
+                ],
+                [
+                    1901.5508474576272,
+                    3333.898305084746
+                ],
+                [
+                    1674.0653517023761,
+                    3334.0682902732487
+                ],
+                [
+                    1674.1413407422208,
+                    3435.7618822453173
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 4.711641745242066,
+            "cropped_image": "2023-2024-1-294_PMI_Circle_radius_0.png",
+            "PMI": {
+                "Raw text": [
+                    "R30"
+                ],
+                "Description": {
+                    "Circle": {
+                        "radius": 30
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Circle_diam",
+            "score": 0.331121027469635,
+            "points": [
+                [
+                    4476.891117890349,
+                    3407.988441859579
+                ],
+                [
+                    5044.615384615385,
+                    3407.6923076923076
+                ],
+                [
+                    5044.554578109313,
+                    3291.1190348749287
+                ],
+                [
+                    4476.830311384278,
+                    3291.4151690422
+                ]
+            ],
+            "group_id": null,
+            "description": null,
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 6.282663691039903,
+            "cropped_image": "2023-2024-1-294_PMI_Circle_diam_1.png",
+            "PMI": {
+                "Raw text": [
+                    "<Diam>47P.C.D"
+                ],
+                "Description": {
+                    "P.C.D": {
+                        "diam": 47
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Line",
+            "score": null,
+            "points": [
+                [
+                    1415.873015873016,
+                    2547.6190476190477
+                ],
+                [
+                    1519.047619047619,
+                    2547.6190476190477
+                ],
+                [
+                    1519.047619047619,
+                    2679.3650793650795
+                ],
+                [
+                    1415.873015873016,
+                    2679.3650793650795
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0,
+            "cropped_image": "2023-2024-1-294_PMI_Line_3.png",
+            "PMI": {
+                "Raw text": [
+                    "52"
+                ],
+                "Description": {
+                    "Linear dimension": {
+                        "value": 52
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Angle",
+            "score": null,
+            "points": [
+                [
+                    2372.975108345591,
+                    2295.819769184728
+                ],
+                [
+                    2523.6363636363635,
+                    2232.121212121212
+                ],
+                [
+                    2561.9720180852482,
+                    2322.7935615105885
+                ],
+                [
+                    2411.3107627944755,
+                    2386.4921185741046
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 5.883185307179595,
+            "cropped_image": "2023-2024-1-294_PMI_Angle_0.png",
+            "PMI": {
+                "Raw text": [
+                    "45°"
+                ],
+                "Description": {
+                    "Angle": {
+                        "value": "45°"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Angle",
+            "score": null,
+            "points": [
+                [
+                    3595.2689831484927,
+                    2287.6886844547516
+                ],
+                [
+                    3756.568181818182,
+                    2352.113636363637
+                ],
+                [
+                    3720.6206643515634,
+                    2442.1145690726075
+                ],
+                [
+                    3559.321465681874,
+                    2377.6896171637222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0.38000000000000017,
+            "cropped_image": "2023-2024-1-294_PMI_Angle_1.png",
+            "PMI": {
+                "Raw text": [
+                    "45°"
+                ],
+                "Description": {
+                    "Angle": {
+                        "value": "45°"
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_Rough",
+            "score": null,
+            "points": [
+                [
+                    3578.9430058886396,
+                    2535.9377136827097
+                ],
+                [
+                    3804.6220961835033,
+                    2492.5351476975447
+                ],
+                [
+                    3851.5151515151515,
+                    2736.363636363636
+                ],
+                [
+                    3625.8360612202882,
+                    2779.766202348801
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 6.09318530717959,
+            "cropped_image": "2023-2024-1-294_PMI_Rough_1.png",
+            "PMI": {
+                "Raw text": [
+                    "<Rough-Removal>",
+                    "</rough-index>[3.2]"
+                ],
+                "Description": {
+                    "Roughness": {
+                        "type": "Removal",
+                        "max": 3.2
+                    }
+                }
+            }
+        },
+        {
+            "label": "PMI_FCF_base",
+            "score": null,
+            "points": [
+                [
+                    5426.608108108108,
+                    1891.5945945945948
+                ],
+                [
+                    5910.391891891892,
+                    1891.5945945945948
+                ],
+                [
+                    5910.391891891892,
+                    2091.594594594595
+                ],
+                [
+                    5426.608108108108,
+                    2091.594594594595
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rotation",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": [],
+            "direction": 0,
+            "cropped_image": "2023-2024-1-294_PMI_FCF_base_0.png",
+            "PMI": {
+                "Raw text": [
+                    "</FCF-base>[A]"
+                ],
+                "Description": {
+                    "FCF datum plane": "A"
+                }
+            }
+        }
+    ],
+    "imagePath": "..\\0.images\\2023-2024-1-294.png",
+    "imageData": null,
+    "imageHeight": 5894,
+    "imageWidth": 8337
+}
